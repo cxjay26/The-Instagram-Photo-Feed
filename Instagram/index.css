@@ -1,0 +1,41 @@
+body{
+    background: gray;
+    margin: 0 auto;
+}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0 auto;
+}
+div.post{
+    background: white;
+    align: center;
+    margin-top: 10px;
+}
+div.container {
+    margin: 0 auto;
+    width: 650px;
+}
+div.post img {
+    width: 100%;
+}
+div.post h3 {
+    padding: 15px;
+    margin: 0 auto;
+}
+div.post p {
+    padding: 5px;
+}
+.postHeader {
+    width: 80%;
+    display: inline-block;
+}
+.postSpan {
+    width: 20%;
+    float: right;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: right;
+}
